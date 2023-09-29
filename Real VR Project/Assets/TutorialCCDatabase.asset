@@ -17,5 +17,5 @@ MonoBehaviour:
     Lines:
     - StartSecond: 0
       Text: '[Humming]'
-    - StartSecond: 0
+    - StartSecond: 1.5
       Text: '[More Humming]'
